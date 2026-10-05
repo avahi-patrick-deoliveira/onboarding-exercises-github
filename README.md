@@ -1,1 +1,1 @@
-# Onboarding Exercises - Module 4 (edit from branch A)
+# Git Onboarding Exercises - Module 4 (resolved merge)
